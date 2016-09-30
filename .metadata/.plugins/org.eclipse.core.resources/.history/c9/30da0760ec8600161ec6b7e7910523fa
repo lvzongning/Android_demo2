@@ -1,0 +1,5 @@
+package com.example.pulltorefresh;
+
+public class PullBean {
+
+}
